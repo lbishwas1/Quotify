@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nova+Round&display=swap');
+
+.text{
+font-family: 'Nova Round';
+font-size: 20px;
+font-weight: bold;
+max-width: 700px;
+margin-bottom: 50px;
+}
+.author{
+    font-size: 20px;
+    font-weight: bold;
+}

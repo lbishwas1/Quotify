@@ -1,0 +1,15 @@
+.button{
+    background: none;
+    border: 2px solid;
+    font: inherit;
+    line-height: 1;
+    margin: 0.5em;
+    padding: 1em 3em;
+    transition: 0.5s;
+    }
+
+.button:hover{
+    cursor: pointer;
+    background-color: black;
+    color: #fff;
+}
